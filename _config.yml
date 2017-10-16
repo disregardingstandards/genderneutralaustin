@@ -19,7 +19,7 @@ markdown: kramdown
 
 
 baseurl: ""
-url: "http://disregardingstandards.com/genderneutralaustin"
+url: "http://disregardingstandards.com/genderneutralaustin/"
 google_analytics:
 
 include: ['_pages']
@@ -34,5 +34,5 @@ exclude:
   - Gemfile.lock
 
 sass:
-  sass_dir: _scss
+  sass_dir: css
   style: :compressed
