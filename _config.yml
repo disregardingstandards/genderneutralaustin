@@ -17,7 +17,6 @@ github_username:  novacourtois
 # Build settings
 markdown: kramdown
 
-
 baseurl: ""
 url: "http://disregardingstandards.com/genderneutralaustin/"
 google_analytics:
