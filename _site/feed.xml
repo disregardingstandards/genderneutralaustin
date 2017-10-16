@@ -3,11 +3,11 @@
   <channel>
     <title>Gender Neutral Austin</title>
     <description>We deserve to pee in peace.</description>
-    <link>http://genderneutralaustin.com//</link>
-    <atom:link href="http://genderneutralaustin.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jul 2016 19:29:05 -0500</pubDate>
-    <lastBuildDate>Sat, 09 Jul 2016 19:29:05 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Oct 2017 23:05:16 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 23:05:16 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Kismet Cafe</title>
@@ -20,8 +20,8 @@
 &lt;p&gt;I haven’t heard back from them, but will check in again in a couple of weeks. Switching signs isn’t time consuming, but I realize it takes a while to research the issue.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jul 2016 10:45:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//restaurant/2016/07/09/kismet.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//restaurant/2016/07/09/kismet.html</guid>
+        <link>http://localhost:4000/kismet/</link>
+        <guid isPermaLink="true">http://localhost:4000/kismet/</guid>
         
         
         <category>restaurant</category>
@@ -56,8 +56,8 @@
 &lt;p&gt;I am going to keep going there, and maybe one day I’ll hear some good news.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jul 2016 08:12:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//bar/restaurant/2016/07/09/varsity.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//bar/restaurant/2016/07/09/varsity.html</guid>
+        <link>http://localhost:4000/varsity/</link>
+        <guid isPermaLink="true">http://localhost:4000/varsity/</guid>
         
         
         <category>bar</category>
@@ -67,7 +67,7 @@
       </item>
     
       <item>
-        <title>Mage&#39;s Sanctum</title>
+        <title>Mage's Sanctum</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/MagesSanctum/&quot;&gt;Mage’s Sancum&lt;/a&gt; is a really nifty shop in South Austin for all of your table-top gaming needs.&lt;/p&gt;
 
 &lt;p&gt;They had two single-stall restrooms that were gendered. I talked to them, and they ended up switching the signs out the next day, making them gender-neutral.&lt;/p&gt;
@@ -77,8 +77,8 @@
 &lt;p&gt;Everybody here has been more than pleasant.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 07:14:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//gaming/2016/07/07/mages-sanctum.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//gaming/2016/07/07/mages-sanctum.html</guid>
+        <link>http://localhost:4000/mages-sanctum/</link>
+        <guid isPermaLink="true">http://localhost:4000/mages-sanctum/</guid>
         
         
         <category>gaming</category>
@@ -108,8 +108,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 02:34:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//cafe/bar/2016/07/07/wheatsville.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//cafe/bar/2016/07/07/wheatsville.html</guid>
+        <link>http://localhost:4000/wheatsville/</link>
+        <guid isPermaLink="true">http://localhost:4000/wheatsville/</guid>
         
         
         <category>cafe</category>
@@ -148,8 +148,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 06 Jul 2016 07:23:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//cafe/bar/2016/07/06/spider-house.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//cafe/bar/2016/07/06/spider-house.html</guid>
+        <link>http://localhost:4000/spider-house/</link>
+        <guid isPermaLink="true">http://localhost:4000/spider-house/</guid>
         
         
         <category>cafe</category>
@@ -169,8 +169,8 @@
 &lt;p&gt;It’s really neat knowing that a few minutes of conversation with people really does make a difference.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jul 2016 09:15:31 -0500</pubDate>
-        <link>http://genderneutralaustin.com//restaurant/2016/07/05/daito.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//restaurant/2016/07/05/daito.html</guid>
+        <link>http://localhost:4000/daito/</link>
+        <guid isPermaLink="true">http://localhost:4000/daito/</guid>
         
         
         <category>restaurant</category>
@@ -202,8 +202,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 05 Jul 2016 00:42:00 -0500</pubDate>
-        <link>http://genderneutralaustin.com//arcade/2016/07/05/pinballz-arcade.html</link>
-        <guid isPermaLink="true">http://genderneutralaustin.com//arcade/2016/07/05/pinballz-arcade.html</guid>
+        <link>http://localhost:4000/pinballz-arcade/</link>
+        <guid isPermaLink="true">http://localhost:4000/pinballz-arcade/</guid>
         
         
         <category>arcade</category>

@@ -16,3 +16,23 @@ github_username:  novacourtois
 
 # Build settings
 markdown: kramdown
+
+
+baseurl: ""
+url: "http://disregardingstandards.com/genderneutralaustin"
+google_analytics:
+
+include: ['_pages']
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  sass_dir: _scss
+  style: :compressed
