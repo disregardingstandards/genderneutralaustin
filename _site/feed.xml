@@ -3,10 +3,10 @@
   <channel>
     <title>Gender Neutral Austin</title>
     <description>We deserve to pee in peace.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Oct 2017 23:05:16 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Oct 2017 23:05:16 -0500</lastBuildDate>
+    <link>http://localhost:4000genderneutralaustin/</link>
+    <atom:link href="http://localhost:4000genderneutralaustin/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Oct 2017 23:22:29 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 23:22:29 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;I haven’t heard back from them, but will check in again in a couple of weeks. Switching signs isn’t time consuming, but I realize it takes a while to research the issue.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jul 2016 10:45:00 -0500</pubDate>
-        <link>http://localhost:4000/kismet/</link>
-        <guid isPermaLink="true">http://localhost:4000/kismet/</guid>
+        <link>http://localhost:4000genderneutralaustin/kismet/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/kismet/</guid>
         
         
         <category>restaurant</category>
@@ -56,8 +56,8 @@
 &lt;p&gt;I am going to keep going there, and maybe one day I’ll hear some good news.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jul 2016 08:12:00 -0500</pubDate>
-        <link>http://localhost:4000/varsity/</link>
-        <guid isPermaLink="true">http://localhost:4000/varsity/</guid>
+        <link>http://localhost:4000genderneutralaustin/varsity/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/varsity/</guid>
         
         
         <category>bar</category>
@@ -77,8 +77,8 @@
 &lt;p&gt;Everybody here has been more than pleasant.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 07:14:00 -0500</pubDate>
-        <link>http://localhost:4000/mages-sanctum/</link>
-        <guid isPermaLink="true">http://localhost:4000/mages-sanctum/</guid>
+        <link>http://localhost:4000genderneutralaustin/mages-sanctum/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/mages-sanctum/</guid>
         
         
         <category>gaming</category>
@@ -108,8 +108,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Jul 2016 02:34:00 -0500</pubDate>
-        <link>http://localhost:4000/wheatsville/</link>
-        <guid isPermaLink="true">http://localhost:4000/wheatsville/</guid>
+        <link>http://localhost:4000genderneutralaustin/wheatsville/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/wheatsville/</guid>
         
         
         <category>cafe</category>
@@ -148,8 +148,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 06 Jul 2016 07:23:00 -0500</pubDate>
-        <link>http://localhost:4000/spider-house/</link>
-        <guid isPermaLink="true">http://localhost:4000/spider-house/</guid>
+        <link>http://localhost:4000genderneutralaustin/spider-house/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/spider-house/</guid>
         
         
         <category>cafe</category>
@@ -169,8 +169,8 @@
 &lt;p&gt;It’s really neat knowing that a few minutes of conversation with people really does make a difference.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Jul 2016 09:15:31 -0500</pubDate>
-        <link>http://localhost:4000/daito/</link>
-        <guid isPermaLink="true">http://localhost:4000/daito/</guid>
+        <link>http://localhost:4000genderneutralaustin/daito/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/daito/</guid>
         
         
         <category>restaurant</category>
@@ -202,8 +202,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 05 Jul 2016 00:42:00 -0500</pubDate>
-        <link>http://localhost:4000/pinballz-arcade/</link>
-        <guid isPermaLink="true">http://localhost:4000/pinballz-arcade/</guid>
+        <link>http://localhost:4000genderneutralaustin/pinballz-arcade/</link>
+        <guid isPermaLink="true">http://localhost:4000genderneutralaustin/pinballz-arcade/</guid>
         
         
         <category>arcade</category>
