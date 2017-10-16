@@ -1,7 +1,7 @@
 ---
 layout: page
 title : About
-permalink: /about/
+permalink: /genderneutralaustin/about/
 ---
 
 # Why Are You Doing This?
