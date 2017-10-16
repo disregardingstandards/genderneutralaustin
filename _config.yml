@@ -18,8 +18,8 @@ github_username:  novacourtois
 markdown: kramdown
 
 
-baseurl: ""
-url: "http://disregardingstandards.com/genderneutralaustin/"
+baseurl: "genderneutralaustin/"
+url: "http://disregardingstandards.com/"
 google_analytics:
 
 include: ['_pages']
