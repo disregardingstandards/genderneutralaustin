@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /genderneutralaustin/contact/
+permalink: /contact/
 ---
 
 
