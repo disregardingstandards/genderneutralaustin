@@ -9,7 +9,7 @@
 title: Gender Neutral Austin
 email: novacourtois@gmail.com
 description: "We deserve to pee in peace."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "genderneutralaustin" # the subpath of your site, e.g. /blog
 url: "http://genderneutralaustin.com/" # the base hostname & protocol for your site
 twitter_username: novacourtois
 github_username:  novacourtois
@@ -17,8 +17,8 @@ github_username:  novacourtois
 # Build settings
 markdown: kramdown
 
-baseurl: ""
-url: "http://disregardingstandards.com/genderneutralaustin"
+baseurl: "/genderneutralaustin"
+url: "http://disregardingstandards.com"
 google_analytics:
 
 include: ['_pages']
